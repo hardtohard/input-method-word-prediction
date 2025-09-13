@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="349bc790-af92-4129-9baf-a512eb9466b7" name="更改" comment="process the data,create dataset and input method model class">
-      <change afterPath="$PROJECT_DIR$/.idea/input_method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/synthesized_.jsonl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="349bc790-af92-4129-9baf-a512eb9466b7" name="更改" comment="process the data,create dataset and input method model class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,19 +28,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.dataset.executor": "Run",
-    "Python.demo.executor": "Run",
-    "Python.process.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/1000 days code/Python/PythonProject/PythonProject/input_method",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.process.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/1000 days code/Python/PythonProject/PythonProject/input_method&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\1000 days code\Python\PythonProject\PythonProject\input_method\data\raw" />
