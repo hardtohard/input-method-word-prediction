@@ -1,0 +1,9 @@
+# PyCharm
+.idea/
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# workspace.xml is inside .idea, but we add it specifically for clarity
+.idea/workspace.xmls
