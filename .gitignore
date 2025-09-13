@@ -6,4 +6,4 @@ __pycache__/
 venv/
 
 # workspace.xml is inside .idea, but we add it specifically for clarity
-.idea/workspace.xmls
+.idea/workspace.xml
